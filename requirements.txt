@@ -6,3 +6,5 @@ ampl_module_cbc
 amplpy
 streamlit
 pandas
+networkx
+matplotlib
